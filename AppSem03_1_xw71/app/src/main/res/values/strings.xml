@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppSem03_1_xw71</string>
+    <string name="btn_enviar">registrar</string>
+    <string name="mail">Ingrese e-mail</string>
+    <string name="nombrepy">Proyecto en clase 1</string>
+</resources>
